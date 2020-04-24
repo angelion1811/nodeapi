@@ -1,9 +1,9 @@
 module.exports = {
 	
-	HOST: "http://sql304.tonohost.com",
-	USER: "ottos_25595882",
-	PASSWORD: "lion.1811",
-	DB: "ottos_25595882_nodeapi",
+	HOST: "db4free.net",
+	USER: "angelion",
+	PASSWORD: "angelion",
+	DB: "angulartestapp",
 	dialect: "mysql",
 	pool:{
 		max: 5,
