@@ -1,9 +1,10 @@
 module.exports = {
 	
-	HOST: "db4free.net",
-	USER: "angelion",
-	PASSWORD: "angelion",
-	DB: "angulartestapp",
+	HOST: "dbdevelopers.xyz",
+	USER: "panel",
+	DB: "panel",
+	PASSWORD: "P4n3lCP4",
+	
 	dialect: "mysql",
 	pool:{
 		max: 5,
